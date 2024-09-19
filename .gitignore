@@ -1,1 +1,5 @@
 constants.php
+log/error/*
+log/IikoResponse/*
+log/orderArrayToIiko/*
+log/webhook/*
