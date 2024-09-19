@@ -30,6 +30,7 @@ const ORGANIZATION;
 const TERMINAL;
 const CITY;
 */
+
 require_once("constants.php");
 
 require_once("class/Exceptions.php");
