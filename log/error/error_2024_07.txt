@@ -1,0 +1,7 @@
+10.07.2024 10:21:54 stdClass Object
+(
+    [correlationId] => e2d9c23a-2396-4f6c-8a19-c534d69a485d
+    [errorDescription] => Apilogin`s license for using the Cloud API has expired.
+)
+
+15.07.2024 17:39:59 Улица `Mira` не найдена
