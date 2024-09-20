@@ -17,7 +17,7 @@ final class Log implements LogInterface
         $yearNow = $dateTime->format("Y");
         $monthNow = $dateTime->format("m");
         
-        $path = __DIR__ . "/../log/" . $fileName . "/" . $fileName . "_" . $yearNow . "_" . $monthNow . ".txt";
+        $path = __DIR__ . "/../log/" . $fileName . "/" . $fileName . "_" . $yearNow . "_" . $monthNow . ".log";
         
         $log = $dateNow . " " . print_r($data, true);
         //if ($fileName == "error") echo ($log);
