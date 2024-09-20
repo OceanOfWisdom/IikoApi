@@ -1307,3 +1307,37 @@
 
 )
 
+19.09.2024 18:04:33 stdClass Object
+(
+    [correlationId] => b4b24c5e-64c0-4d1a-9c78-812852b59d40
+    [orderInfo] => stdClass Object
+        (
+            [id] => 4f4a6c37-2d7f-4702-a347-20c18fceffe6
+            [posId] => 88231bc9-cd1a-46f2-92af-4d7009b45f58
+            [externalNumber] => 
+            [organizationId] => fbbff9f7-bd60-45bb-b2f0-a8237c2ba68d
+            [timestamp] => 1726733073037
+            [creationStatus] => InProgress
+            [errorInfo] => 
+            [order] => 
+        )
+
+)
+
+19.09.2024 19:45:53 stdClass Object
+(
+    [correlationId] => f6551fd3-3b4e-4bf5-b837-3aba1be57267
+    [orderInfo] => stdClass Object
+        (
+            [id] => 81e54260-1f71-4fdf-8774-9ea44cc8a687
+            [posId] => afb1eecc-dbf5-414d-9725-9329d896e206
+            [externalNumber] => 
+            [organizationId] => fbbff9f7-bd60-45bb-b2f0-a8237c2ba68d
+            [timestamp] => 1726739153717
+            [creationStatus] => InProgress
+            [errorInfo] => 
+            [order] => 
+        )
+
+)
+

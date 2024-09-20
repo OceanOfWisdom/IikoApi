@@ -4132,3 +4132,102 @@
     [formname] => Cart
 )
 
+19.09.2024 18:04:32 Array
+(
+    [Имя] => Эмилия
+    [Телефон] => +7 (914) 406-3802
+    [почта] => e28594774@gmail.com
+    [Согласие] => yes
+    [payment] => Array
+        (
+            [orderid] => 1577662138
+            [products] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => Паста Карбонара
+                            [quantity] => 1
+                            [amount] => 430
+                            [externalid] => 844c8cfd-522d-4161-b59d-bd69e1d5638c
+                            [price] => 430
+                        )
+
+                )
+
+            [amount] => 620
+            [subtotal] => 430
+            [delivery] => Доставка по г. Амурск
+            [delivery_price] => 190
+            [delivery_fio] => 
+            [delivery_address] => RU: 682640, Амурск, пр-кт Строителей, 19, кв/оф. Магазин скупка сеть
+            [delivery_comment] => 
+            [delivery_zip] => 682640
+        )
+
+    [formid] => form611526630
+    [formname] => Cart
+)
+
+19.09.2024 19:45:53 Array
+(
+    [Имя] => Татьяна
+    [Телефон] => +7 (994) 148-1829
+    [почта] => sinchenko.96@mail.ru
+    [Согласие] => yes
+    [payment] => Array
+        (
+            [orderid] => 1655103466
+            [products] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => Пельмешки Фри
+                            [quantity] => 2
+                            [amount] => 700
+                            [externalid] => b46e34fe-d86c-466d-854a-588307b308a7
+                            [price] => 350
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => Наггетсы
+                            [quantity] => 2
+                            [amount] => 600
+                            [externalid] => df0f4305-7728-4596-b558-dfe296190d85
+                            [price] => 300
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => Мексиканская Кесадилья с курицей, сыром, помидором и томатным соусом
+                            [quantity] => 1
+                            [amount] => 470
+                            [externalid] => c5cc719b-3f9e-475a-88e7-f21b8418070e
+                            [price] => 470
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => Сырные палочки
+                            [quantity] => 1
+                            [amount] => 350
+                            [externalid] => 0be5c75b-2fb7-48b6-9661-cea748422239
+                            [price] => 350
+                        )
+
+                )
+
+            [amount] => 2310
+            [subtotal] => 2120
+            [delivery] => Доставка по г. Амурск
+            [delivery_price] => 190
+            [delivery_fio] => 
+            [delivery_address] => RU: 682644, Амурск, пр-кт Комсомольский, 29, кв/оф. 16, подъезд 2, этаж 1
+            [delivery_comment] => 
+            [delivery_zip] => 682644
+        )
+
+    [formid] => form611526630
+    [formname] => Cart
+)
+
